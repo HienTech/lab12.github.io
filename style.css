@@ -1,0 +1,28 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://logico.com.vn/upload_images/images/2022/11/30/hinh-nen-dep-1.jpg);
+  height: 500px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://khoinguonsangtao.vn/wp-content/uploads/2022/08/hinh-nen-cong-nghe-dep-1.jpg);
+  height: 500px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxWcXG_aHMoB0R32n5rMiSDK0b2ZoXQfWxAvVjZakz616GpgMNjL5qZ1jDH3dx3cs6Is&usqp=CAU);
+  height: 500px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  padding: 40px;
+  margin-top: 100px;
+}
